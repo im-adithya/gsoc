@@ -1,10 +1,98 @@
-.App {
-  text-align: center;
+.mt-6{
+  margin-top: 5rem!important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.mt-10{
+  margin-top: 15rem!important;
+}
+
+.gsoc{
+  width: 100%;
+}
+
+.pixelone{
+  width: 100%;
+}
+
+.theend {
+  color: white;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 1.2;
+
+}
+
+.headingsmall {
+  color: white;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 1.2;
+}
+
+.heading{
+  color: white;
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 1.2;
+}
+
+.abstract-point{
+  color: var(--bs-gray-500);
+  font-size: 18px;
+  line-height: 1.2;
+}
+
+.heading-title{
+  color: #ccc;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+.features{
+  color: #ccc;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1.2;
+  text-align: left;
+}
+
+.gp{
+  width: 200px;
+  background-color: #2F343D;
+  box-shadow: #00000055 0px 0px 15px;
+  border-top-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  cursor: pointer;
+  border: 2px solid #f5455c;
+}
+
+.gp:hover{
+  box-shadow: #91000077 0px 0px 15px;
+}
+
+.gp-header{
+  font-weight: 650;
+  color: #f5455c;
+  font-size: 13px;
+}
+
+.gp-name{
+  font-weight: 600;
+  color: white;
+  font-size: 11px;
+}
+
+.gp-git{
+  color: white;
+  font-size: 9px;
+}
+
+.ss-title{
+  color: gray;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 14px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
