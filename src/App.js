@@ -38,10 +38,10 @@ const ScreenShot = (props) => (
 
 const PR = () => (
   <Row className="gp my-3 py-2 d-flex flex-row align-items-center justify-content-between" onClick={() => { window.location.href='https://github.com/RocketChat/Rocket.Chat/pull/22455' }}>
-    <Col xs={4}>
+    <Col xs={3}>
       <Image src={octocat} alt='Octocat' width='30px' />
     </Col>
-    <Col xs={8}>
+    <Col xs={9}>
       <Row className="gp-name">RocketChat/Rocket.Chat</Row>
       <Row className="gp-name">PR&nbsp;#22455</Row>
     </Col>
