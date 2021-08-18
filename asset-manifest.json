@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gsoc/static/css/main.52705491.chunk.css",
-    "main.js": "/gsoc/static/js/main.535cdb44.chunk.js",
-    "main.js.map": "/gsoc/static/js/main.535cdb44.chunk.js.map",
+    "main.js": "/gsoc/static/js/main.059b30d2.chunk.js",
+    "main.js.map": "/gsoc/static/js/main.059b30d2.chunk.js.map",
     "runtime-main.js": "/gsoc/static/js/runtime-main.8fb07fc8.js",
     "runtime-main.js.map": "/gsoc/static/js/runtime-main.8fb07fc8.js.map",
     "static/css/2.9351b95b.chunk.css": "/gsoc/static/css/2.9351b95b.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.9351b95b.chunk.css.map": "/gsoc/static/css/2.9351b95b.chunk.css.map",
     "static/css/main.52705491.chunk.css.map": "/gsoc/static/css/main.52705491.chunk.css.map",
     "static/js/2.f21df82a.chunk.js.LICENSE.txt": "/gsoc/static/js/2.f21df82a.chunk.js.LICENSE.txt",
-    "static/media/gsoc-logo.df31d1d1.svg": "/gsoc/static/media/gsoc-logo.df31d1d1.svg",
+    "static/media/gsoc-logo.5e1f8dcb.svg": "/gsoc/static/media/gsoc-logo.5e1f8dcb.svg",
     "static/media/icon1.8a73f97d.svg": "/gsoc/static/media/icon1.8a73f97d.svg",
     "static/media/icon2.4fc2d4bd.svg": "/gsoc/static/media/icon2.4fc2d4bd.svg",
     "static/media/icon3.56e87b9d.svg": "/gsoc/static/media/icon3.56e87b9d.svg",
@@ -41,6 +41,6 @@
     "static/css/2.9351b95b.chunk.css",
     "static/js/2.f21df82a.chunk.js",
     "static/css/main.52705491.chunk.css",
-    "static/js/main.535cdb44.chunk.js"
+    "static/js/main.059b30d2.chunk.js"
   ]
 }
