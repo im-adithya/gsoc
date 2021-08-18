@@ -160,12 +160,12 @@ function App() {
         </Row>
       </Container>
 
-      <Container fluid className="mt-6 mb-3">
+      <Container fluid className="mt-6">
         <Row>
           <Col md={2} className="d-none d-md-block">
             <Image src={pixel2} className="pixelone" />
           </Col>
-          <Col xs md={{ span: 4, offset: 6 }} className="mt-3 theend">
+          <Col xs md={{ span: 4, offset: 6 }} className="mt-3 mb-3 theend">
             The End
             <Image src={rocket} width='40px' className='mx-4'/>
           </Col>
