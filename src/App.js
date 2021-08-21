@@ -37,7 +37,7 @@ const ScreenShot = (props) => (
 );
 
 const PR = () => (
-  <Row className="gp my-3 py-2 d-flex flex-row align-items-center justify-content-between" onClick={() => { window.location.href='https://github.com/RocketChat/Rocket.Chat/pull/22455' }}>
+  <Row className="gp my-3 py-2 d-flex flex-row align-items-center justify-content-between" onClick={() => { window.location.href = 'https://github.com/RocketChat/Rocket.Chat/pull/22455' }}>
     <Col xs={3}>
       <Image src={octocat} alt='Octocat' width='30px' />
     </Col>
@@ -98,6 +98,22 @@ function App() {
           </Col>
         </Row>
 
+        {/*----------------------- VIDEO STARTS HERE -----------------------*/}
+        <Row>
+          <Col className='headingsmall mt-6 mb-4 mb-md-5'>Video</Col>
+        </Row>
+        <Row>
+          <Col className='embed-responsive embed-responsive-16by9 m-2'>
+            <iframe
+              className="embed-responsive-item"
+              src={`https://www.youtube.com/embed/4aBaQ6qI1RY`}
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              title="Channels Discovery | GSoC '21 x Rocket.Chat | Adithya Vardhan"
+            />
+          </Col>
+        </Row>
         {/*----------------------- ABSTRACT STARTS HERE -----------------------*/}
 
         <Row>
@@ -148,7 +164,7 @@ function App() {
           </Col>
         </Row>
 
-        {/*----------------------- ABSTRACT STARTS HERE -----------------------*/}
+        {/*----------------------- HOW WE DTC STARTS HERE -----------------------*/}
 
         <Row>
           <Col className='headingsmall mt-6 mb-4 mb-md-5'>How we decided the Trending Channels</Col>
@@ -167,7 +183,7 @@ function App() {
           </Col>
           <Col xs md={{ span: 4, offset: 6 }} className="mt-3 mb-3 theend">
             The End
-            <Image src={rocket} width='40px' className='mx-4'/>
+            <Image src={rocket} width='40px' className='mx-4' />
           </Col>
         </Row>
       </Container>

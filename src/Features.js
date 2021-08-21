@@ -10,22 +10,46 @@ function Features() {
         <div className="features">
             <Row className="mt-5">
                 <Col md={6} className="features py-3">
-                    <Image src={icon1} width='25px' className='mx-3'/>
-                    Set tags for public channels
+                    <Row className="align-items-center">
+                        <Col xs={3} lg={2}>
+                            <Image src={icon1} width='25px' className='mx-3' />
+                        </Col>
+                        <Col xs={9} lg={10}>
+                            Set tags for public channels
+                        </Col>
+                    </Row>
                 </Col>
                 <Col md={6} className="features py-3">
-                    <Image src={icon2} width='25px' className='mx-3'/>
-                    Search for channels using hashtags
+                    <Row className="align-items-center">
+                        <Col xs={3} lg={2}>
+                            <Image src={icon2} width='25px' className='mx-3' />
+                        </Col>
+                        <Col xs={9} lg={10}>
+                            Search for channels using hashtags
+                        </Col>
+                    </Row>
                 </Col>
             </Row>
             <Row>
                 <Col md={6} className="features py-3">
-                    <Image src={icon3} width='25px' className='mx-3'/>
-                    View your server's trending channels
+                    <Row className="align-items-center">
+                        <Col xs={3} lg={2}>
+                            <Image src={icon3} width='25px' className='mx-3' />
+                        </Col>
+                        <Col xs={9} lg={10}>
+                            View your server's trending channels
+                        </Col>
+                    </Row>
                 </Col>
                 <Col md={6} className="features py-3">
-                    <Image src={icon4} width='25px' className='mx-3'/>
-                    Get channel recommendations as per your liking!
+                    <Row className="align-items-center">
+                        <Col xs={3} lg={2}>
+                            <Image src={icon4} width='25px' className='mx-3' />
+                        </Col>
+                        <Col xs={9} lg={10}>
+                            Get channel recommendations as per your liking!
+                        </Col>
+                    </Row>
                 </Col>
             </Row>
         </div>
