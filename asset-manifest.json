@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gsoc/static/css/main.52705491.chunk.css",
+    "main.css": "/gsoc/static/css/main.42172977.chunk.css",
     "main.js": "/gsoc/static/js/main.4fe17852.chunk.js",
     "main.js.map": "/gsoc/static/js/main.4fe17852.chunk.js.map",
     "runtime-main.js": "/gsoc/static/js/runtime-main.8fb07fc8.js",
@@ -12,7 +12,7 @@
     "static/js/3.baed0ce8.chunk.js.map": "/gsoc/static/js/3.baed0ce8.chunk.js.map",
     "index.html": "/gsoc/index.html",
     "static/css/2.9351b95b.chunk.css.map": "/gsoc/static/css/2.9351b95b.chunk.css.map",
-    "static/css/main.52705491.chunk.css.map": "/gsoc/static/css/main.52705491.chunk.css.map",
+    "static/css/main.42172977.chunk.css.map": "/gsoc/static/css/main.42172977.chunk.css.map",
     "static/js/2.f21df82a.chunk.js.LICENSE.txt": "/gsoc/static/js/2.f21df82a.chunk.js.LICENSE.txt",
     "static/media/gsoc-logo.5e1f8dcb.svg": "/gsoc/static/media/gsoc-logo.5e1f8dcb.svg",
     "static/media/icon1.8a73f97d.svg": "/gsoc/static/media/icon1.8a73f97d.svg",
@@ -40,7 +40,7 @@
     "static/js/runtime-main.8fb07fc8.js",
     "static/css/2.9351b95b.chunk.css",
     "static/js/2.f21df82a.chunk.js",
-    "static/css/main.52705491.chunk.css",
+    "static/css/main.42172977.chunk.css",
     "static/js/main.4fe17852.chunk.js"
   ]
 }
